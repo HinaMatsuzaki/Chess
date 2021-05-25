@@ -6,7 +6,7 @@ Covers some special rules: pawn promotion, castling, and en passant;
 Allows you to move the king only to safety when in check;
 Shows legal moves; 
 Shows captured pieces; 
-Shows hitory
+Shows history
 
 HOW TO PLAY
 White goes first;  
